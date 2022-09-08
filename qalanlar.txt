@@ -1,0 +1,4 @@
+//color game ilk rgb code sehv gelir
+mobilede commentlerin stari qalib
+kartla sifais,xusuiyyetler reyler sari olma qalib
+sag yuxari fixed eleemk qalib
